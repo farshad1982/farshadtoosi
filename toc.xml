@@ -3,8 +3,13 @@
    <topic href="topics/welcome.html" data-id="welcome">
       <title>Welcome</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Dr Farshad Ghassemi Toosi         </p>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">         <strong class="ph b">Dr Farshad Ghassemi Toosi</strong>         
+         </p>
       </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/publication.html" data-id="publication">
+      <title>List of Publication</title>
       <topicmeta></topicmeta>
    </topic>
 </toc>
