@@ -12,4 +12,11 @@
       <title>List of Publication</title>
       <topicmeta></topicmeta>
    </topic>
+   <topic href="topics/teaching.html" data-id="teaching">
+      <title>Teaching and Lecturing</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
 </toc>

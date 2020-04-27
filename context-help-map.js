@@ -1,1 +1,1 @@
-var helpContexts = [{"appname":"", "appid":"welcome", "path":"topics/welcome.html"},{"appname":"", "appid":"publication", "path":"topics/publication.html"}]
+var helpContexts = [{"appname":"", "appid":"welcome", "path":"topics/welcome.html"},{"appname":"", "appid":"publication", "path":"topics/publication.html"},{"appname":"", "appid":"teaching", "path":"topics/teaching.html"}]
