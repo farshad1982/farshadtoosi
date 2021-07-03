@@ -4,4 +4,5 @@
    <appContext helpID="publication" path="topics/publication.html"/>
    <appContext helpID="teaching" path="topics/teaching.html"/>
    <appContext helpID="projects" path="topics/projects.html"/>
+   <appContext helpID="aboutMe" path="topics/aboutMe.html"/>
 </map>

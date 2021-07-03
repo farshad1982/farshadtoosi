@@ -3,8 +3,7 @@
    <topic href="topics/welcome.html" data-id="welcome">
       <title>Welcome</title>
       <shortdesc>
-         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">         <strong class="ph b">Dr Farshad Ghassemi Toosi</strong>         
-         </p>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">         <strong class="ph b">Fery</strong>         </p>
       </shortdesc>
       <topicmeta></topicmeta>
    </topic>
@@ -23,8 +22,14 @@
       <title>Projects</title>
       <shortdesc>
          <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">I have been involved with the following projects either as the main researcher, supervisory
-            team or developer.
-         </p>
+            team or developer.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/aboutMe.html" data-id="aboutMe">
+      <title>Serious Matters</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">              </p>
       </shortdesc>
       <topicmeta></topicmeta>
    </topic>
