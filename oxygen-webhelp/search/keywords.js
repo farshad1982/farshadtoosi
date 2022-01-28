@@ -1,0 +1,10 @@
+var keywords=[{w:"Interests",p:["p0"]},{w:"Pencil",p:["p1"]},{w:"Drawing",p:["p1"]},{w:"(Black",p:["p1"]},{w:"and",p:["p1","p6"]},{w:"White)",p:["p1"]},{w:"***",p:["p2"]},{w:"Projects",p:["p3"]},{w:"List",p:["p4"]},{w:"of",p:["p4"]},{w:"Publication",p:["p4"]},{w:"Stone",p:["p5"]},{w:"Crafting",p:["p5"]},{w:"Teaching",p:["p6"]},{w:"Lecturing",p:["p6"]},{w:"Welcome",p:["p7"]}];
+var ph={};
+ph["p0"]=[0];
+ph["p1"]=[1, 2, 3, 4, 5];
+ph["p2"]=[6];
+ph["p3"]=[7];
+ph["p4"]=[8, 9, 10];
+ph["p5"]=[11, 12];
+ph["p6"]=[13, 4, 14];
+ph["p7"]=[15];

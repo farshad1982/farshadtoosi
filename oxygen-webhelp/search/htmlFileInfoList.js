@@ -1,0 +1,10 @@
+fil = new Array();
+fil["0"]= "topics/aboutMe.html@@@Interests@@@Here is a list of things I usually do as you may call them hobbies. Drawings I started to do drawing since I was 23. I never attended any tutorial or classes. Here is a list of some of my works. Stone...";
+fil["1"]= "topics/drawings.html@@@Pencil Drawing (Black and White)@@@Mother Theresa. It took nearly 4 days to finish. April 2021. Cork-Douglas. Mahatma Gandhi. It took nearly 4 days to finish. April 2021. Cork-Douglas. Albert Einstein. It took nearly 4 days to finish...";
+fil["2"]= "topics/poem.html@@@***@@@Khorasan and the pain that people feel these days: August 2021. Cork-Douglas...";
+fil["3"]= "topics/projects.html@@@Projects@@@I have been involved with the following projects either as the main researcher, supervisory team or developer...";
+fil["4"]= "topics/publication.html@@@List of Publication@@@2021 Farshad Ghassemi Toosi, Anila Mjeda What is in a Name? An Analysis of Associations Among Java Packaging and Artifact Names ECSA 2021; 15th European Conference on Software Architecture (ECSA...";
+fil["5"]= "topics/stoneArt.html@@@Stone Crafting@@@...";
+fil["6"]= "topics/teaching.html@@@Teaching and Lecturing@@@Data Analytics Weka, Python, University of Limerick (UL) and Munster Technological University (MTU) Advanced Web Publishing Drupal, Munster Technological University (MTU) XML in Technical...";
+fil["7"]= "topics/welcome.html@@@Welcome@@@The only thing that is binary, is the concept that Computer is made upon. Everything else is a spectrum of forms, states and shapes...";
+var doStem = false;searchLoaded = true;

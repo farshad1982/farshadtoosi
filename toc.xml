@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title"></span></title>
+   <topic href="topics/welcome.html" data-id="welcome">
+      <title> Welcome</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">                  <em class="ph i">            <strong class="ph b">             <span class="ph">                 The only thing that is binary, is the concept that Computer is made
+                     upon. Everything else is                  a spectrum of forms, states and shapes.
+                     </span>                         </strong>         </em>                  </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/publication.html" data-id="publication">
+      <title>List of Publication</title>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/teaching.html" data-id="teaching">
+      <title>Teaching and Lecturing</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/projects.html" data-id="projects">
+      <title>Projects</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">I have been involved with the following projects either as the main researcher, supervisory
+            team or developer.</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="topics/aboutMe.html" data-id="aboutMe">
+      <title>Interests</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">              </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+</toc>

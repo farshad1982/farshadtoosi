@@ -1,0 +1,1 @@
+var helpContexts = [{"appname":"", "appid":"welcome", "path":"topics/welcome.html"},{"appname":"", "appid":"publication", "path":"topics/publication.html"},{"appname":"", "appid":"teaching", "path":"topics/teaching.html"},{"appname":"", "appid":"projects", "path":"topics/projects.html"},{"appname":"", "appid":"aboutMe", "path":"topics/aboutMe.html"}]
