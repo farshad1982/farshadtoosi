@@ -1,7 +1,5 @@
 
 // Auto generated index for searching.
-w["effort"]="3*0*66";
-w["effort."]="3*0*65";
 w["egyptian"]="1*0*2n";
 w["ehtesham"]="1*0*47";
 w["eigen"]="4*0*aj";
@@ -41,6 +39,8 @@ w["farshad"]="4*12*-1$5$19$2d,7*0*j";
 w["father"]="1*0*64";
 w["feature"]="3*10*3h$3t,7*0*2u";
 w["feb"]="1*0*4u";
+w["febrary"]="1*0*e1";
+w["febrary-2022-"]="1*0*e0";
 w["feel"]="2*10*-1$4";
 w["few"]="3*0*19";
 w["film"]="1*0*bu";
@@ -133,8 +133,8 @@ w["involved"]="3*13*-1$5$1n$3b$4s";
 w["iran"]="1*3*4n$53$5i$6t";
 w["iran."]="1*1*4m$6s";
 w["iranian"]="1*0*4a";
-w["ireland"]="1*10*6m$7s$8i$93$a0$aj$b2$c5$co$d8$do,7*0*18";
-w["ireland."]="1*8*8h$92$9v$ai$b1$c4$cn$d7$dn,7*0*17";
+w["ireland"]="1*11*6m$7s$8i$93$a0$aj$b2$c5$co$d8$do$e6,7*0*18";
+w["ireland."]="1*9*8h$92$9v$ai$b1$c4$cn$d7$dn$e5,7*0*17";
 w["irish"]="1*0*65,4*0*4o,7*0*29";
 w["irish/international"]="4*0*4n";
 w["issue"]="4*0*hm";
@@ -244,6 +244,8 @@ w["object"]="6*0*26";
 w["objectification"]="4*0*7f";
 w["october"]="1*0*9r";
 w["october-2021-"]="1*0*9q";
+w["office"]="1*1*dr$dt";
+w["office."]="1*0*dq";
 w["oil"]="1*0*70";
 w["old"]="1*0*aa";
 w["one"]="1*1*1q$4e";
