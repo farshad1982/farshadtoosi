@@ -196,6 +196,7 @@ w["member"]="1*0*4g,4*0*3c";
 w["migration"]="5*0*1h";
 w["miguel"]="5*0*2b";
 w["minimum"]="4*0*64";
+w["miscellaneous"]="2*30*0$1";
 w["mixture"]="1*0*de";
 w["mjeda"]="5*11*-1$9$1d";
 w["mohammad"]="1*0*1l";
@@ -250,5 +251,4 @@ w["office"]="1*1*dr$dt";
 w["office."]="1*0*dq";
 w["oil"]="1*0*70";
 w["old"]="1*0*aa";
-w["one"]="1*1*1q$4e";
 
