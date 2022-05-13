@@ -1,12 +1,12 @@
-var keywords=[{w:"Interests",p:["p0"]},{w:"Pencil",p:["p1"]},{w:"Drawing",p:["p1"]},{w:"(Black",p:["p1"]},{w:"and",p:["p1","p7"]},{w:"White)",p:["p1"]},{w:"Miscellaneous",p:["p2"]},{w:"***",p:["p3"]},{w:"Projects",p:["p4"]},{w:"List",p:["p5"]},{w:"of",p:["p5"]},{w:"Publication",p:["p5"]},{w:"Stone",p:["p6"]},{w:"Crafting",p:["p6"]},{w:"Teaching",p:["p7"]},{w:"Lecturing",p:["p7"]},{w:"Veganism",p:["p8"]},{w:"Welcome",p:["p9"]}];
+var keywords=[{w:"***",p:["p0"]},{w:"Interests",p:["p1"]},{w:"Pencil",p:["p2"]},{w:"Drawing",p:["p2"]},{w:"(Black",p:["p2"]},{w:"and",p:["p2","p7"]},{w:"White)",p:["p2"]},{w:"Miscellaneous",p:["p3"]},{w:"Projects",p:["p4"]},{w:"List",p:["p5"]},{w:"of",p:["p5"]},{w:"Publication",p:["p5"]},{w:"Stone",p:["p6"]},{w:"Crafting",p:["p6"]},{w:"Teaching",p:["p7"]},{w:"Lecturing",p:["p7"]},{w:"Veganism",p:["p8"]},{w:"Welcome",p:["p9"]}];
 var ph={};
 ph["p0"]=[0];
-ph["p1"]=[1, 2, 3, 4, 5];
-ph["p2"]=[6];
+ph["p1"]=[1];
+ph["p2"]=[2, 3, 4, 5, 6];
 ph["p3"]=[7];
 ph["p4"]=[8];
 ph["p5"]=[9, 10, 11];
 ph["p6"]=[12, 13];
-ph["p7"]=[14, 4, 15];
+ph["p7"]=[14, 5, 15];
 ph["p8"]=[16];
 ph["p9"]=[17];
